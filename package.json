@@ -9,9 +9,12 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@builder.io/admin-sdk": "^0.0.8",
+    "axios": "^1.13.2",
+    "builder": "^5.0.0",
+    "next": "^16.0.1",
     "react": "19.2.0",
-    "react-dom": "19.2.0",
-    "next": "16.0.1"
+    "react-dom": "19.2.0"
   },
   "devDependencies": {
     "eslint": "^9",
